@@ -1,3 +1,3 @@
-module github.com/mwyvr/knockr
+module github.com/P3X-118/knockr
 
 go 1.23
